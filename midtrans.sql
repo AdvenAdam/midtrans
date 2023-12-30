@@ -1,0 +1,1 @@
+insert into `orders` (`created_at`, `id`, `snap_token`, `status`, `total`, `updated_at`) values ('2023-12-30 08:17:42', '9af89409-6c54-409c-aacf-be3c16d8aaa5', 'c323d53a-65e7-4009-8901-74bb4e728dce', 'PAID', '400200', '2023-12-30 08:28:38');
